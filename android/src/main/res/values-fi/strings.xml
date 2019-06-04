@@ -1,0 +1,7 @@
+<resources>
+    <string name="fingerprint_cancel">Käytä pelkkää pin-koodia</string>
+    <string name="fingerprint_message">Kirjaudu sormenjäljelläsi nopeammin ja helpommin.\n\nVahvista sormenjälki.</string>
+    <string name="fingerprint_hint">Kosketa sensoria</string>
+    <string name="fingerprint_recognized">Sormenjälki  tunnistettu</string>
+    <string name="fingerprint_not_recognized">Sormenjälkeä ei tunnistettu, yritä uudelleen</string>
+</resources>
